@@ -15,3 +15,9 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requarements.txt
 ```
+
+## Подтянуть изменения в локальный репозиторий
+
+```
+git pull origin main
+```
